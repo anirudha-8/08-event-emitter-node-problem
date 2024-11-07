@@ -27,7 +27,7 @@ Create a Node.js script that demonstrates the use of the `EventEmitter` class fr
 Your project folder should look like this:  
 
 ```bash  
-problem-8-event-emitter/  
+08-event-emitter-node-problem/  
 ├── emitter.js         # The main script demonstrating custom event emitter usage  
 ├── README.md          # Documentation for this problem  
 └── package.json       # Project configuration file  
